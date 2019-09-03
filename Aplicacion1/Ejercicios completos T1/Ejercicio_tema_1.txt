@@ -1,0 +1,9 @@
+Pedir al usuario 3 valores
+	1º Un importe
+	2º Un tipo de moneda (€, $)
+	3º Un segundo importe
+Cuando el usuario haya introducido los tres valores realiza la suma de los dos importes y muestra por pantalla el siguiente texto:
+El precio total es de {resultado}{tipo de moneda}.
+Gracias por su visita.
+
+
