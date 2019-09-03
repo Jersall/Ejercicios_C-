@@ -3,7 +3,7 @@ de 9 que haya por ese número. Usa llaves para todas las sentencias.*/
 using System;
 public class Ejercicio2_2_9_1
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		Console.Write("Introduce un número, sacaré múltiples de 9: ");
 		int dnueve = Convert.ToInt32(Console.ReadLine());

@@ -7,7 +7,7 @@ un numero y diga si es multiplo de 2 y 3 simultaneamente*/
 using System;
 public class Ejercicio2_1_5_1
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int n1, m2, m3;
 		Console.Write("Introduce un número entero, ¿Será múltiple de 2 o 3?: ");

@@ -3,7 +3,7 @@ si se llama Juanjo, o bien le diga "no te conozco" de decir otro nombre.*/
 using System;
 public class Ejercicio3_4_1
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		string nombre;
 		Console.Write("¿Quien eres? ¿Cual es tu nombre?: ");

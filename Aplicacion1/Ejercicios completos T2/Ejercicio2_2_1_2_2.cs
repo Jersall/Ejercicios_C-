@@ -3,7 +3,7 @@
 using System;
 public class Ejercicio2_2_1_2_2
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int n1 = 26;
 		while(n1 != 8)

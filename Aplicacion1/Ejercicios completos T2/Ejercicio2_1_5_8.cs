@@ -6,7 +6,7 @@
 using System;
 public class Ejercicio2_1_5_8
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int n1, n2;
 		Console.Write("Introduce un número entero: ");

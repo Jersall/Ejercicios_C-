@@ -3,7 +3,7 @@ descendiendo excepto el 13. Usa Continue.*/
 using System;
 public class Ejercicio2_2_11_1
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int i;
 		for (i = 20; i >= 10; i--)

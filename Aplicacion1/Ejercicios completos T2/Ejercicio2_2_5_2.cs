@@ -3,7 +3,7 @@ una misma línea, usando "while"*/
 using System;
 public class Ejercicio2_2_5_2
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int veces = 1, numero = 1;
 		while(veces <= 4)

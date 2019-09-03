@@ -2,7 +2,7 @@
 using System;
 public class Ejercicio2_2_3_1
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int cont;
 

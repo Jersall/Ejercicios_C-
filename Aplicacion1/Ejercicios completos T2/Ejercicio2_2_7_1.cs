@@ -3,7 +3,7 @@ mayuscula a la A mayuscula en descendiente*/
 using System;
 public class Ejercicio2_2_7_1
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		char letra;
 		for (letra = 'Z'; letra >= 'A'; letra--)

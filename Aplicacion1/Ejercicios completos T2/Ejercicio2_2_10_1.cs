@@ -3,7 +3,7 @@ escriba su máximo común divisor*/
 using System;
 public class Ejercicio2_2_10_1
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int n1, n2;
 		Console.Write("Introduce un número entero(1): ");

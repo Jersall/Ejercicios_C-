@@ -3,7 +3,7 @@ numero del 1 al 100(prefijado) en un maximo de 6 intentos. En cada pasada deber√
 using System;
 public class Ejercicio2_6_1
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int adivina, intentos = 6, respuesta = 91;
 		Console.Write("A ver si adivinas el n√∫mero. De 1 a 100. Te doy 6 intentos: ");

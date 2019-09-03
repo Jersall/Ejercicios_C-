@@ -3,7 +3,7 @@ pares del 20 al 10, descendiendo, a excepción del 14. Primero con for, luego co
 using System;
 public class Ejercicio2_2_12_2
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int i;
 		for (i = 20; i >= 10; i--)

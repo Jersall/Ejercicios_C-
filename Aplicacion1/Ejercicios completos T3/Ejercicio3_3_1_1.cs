@@ -3,7 +3,7 @@ una vocal.*/
 using System;
 public class Ejercicio3_3_1_1
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		char letra;
 		Console.Write("¿Letra(Solo 1)?: ");

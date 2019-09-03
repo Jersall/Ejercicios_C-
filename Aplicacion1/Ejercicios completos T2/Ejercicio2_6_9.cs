@@ -7,7 +7,7 @@ de la altura y anchura indicada por el usuario:
 using System;
 public class Ejercicio2_6_9
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int alto, ancho, datoalto, datoancho, numero = 1;
 		Console.Write("(Max 9)¿Alto?: ");

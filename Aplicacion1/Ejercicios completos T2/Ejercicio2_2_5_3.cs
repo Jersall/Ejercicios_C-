@@ -3,7 +3,7 @@ diga si son divisibles entre 5, 6, o 7.*/
 using System;
 public class Ejercicio2_2_5_3
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int numero;
 		for (numero = 10; numero <= 20; numero++)

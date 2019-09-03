@@ -3,7 +3,7 @@ que será un número entero(area = pi * r^2)*/
 using System;
 public class Ejercicio3_2_2_2
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int rads;
 		Console.WriteLine("¿Longitud del radio(r)?: ");

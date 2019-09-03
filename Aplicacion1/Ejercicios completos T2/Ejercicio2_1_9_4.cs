@@ -3,7 +3,7 @@
 using System;
 public class Ejercicio2_1_9_4
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int n1;
 		Console.Write("Di un número del 1 al 5, lo traduciré para los de letras.");

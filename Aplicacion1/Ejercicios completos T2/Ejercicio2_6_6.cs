@@ -4,7 +4,7 @@ El numero debe indicarlo el usuario.*/
 using System;
 public class Ejercicio2_6_6
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int ancho, alto, datoancho, datoalto;
 		Console.Write("Introduce un número entero(Alto): ");

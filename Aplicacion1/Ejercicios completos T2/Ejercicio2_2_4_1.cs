@@ -2,7 +2,7 @@
 using System;
 public class Ejercicio2_2_4_1
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int contador;
 		for (contador = 1; contador != 0; )

@@ -3,7 +3,7 @@ la letra a en una frase que teclee el usuario usando foreach.*/
 using System;
 public class Ejercicio2_5_1
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int contador = 0;
 		Console.WriteLine("Escribe una frase, la que quieras:");

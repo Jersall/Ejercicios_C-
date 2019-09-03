@@ -3,7 +3,7 @@ de doble precisión. (vol = pi * r^3 * 4/3)*/
 using System;
 public class Ejercicio3_2_3_1
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		double radio, vol;
 		float pi = 3.14f;

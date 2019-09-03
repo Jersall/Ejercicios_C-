@@ -5,7 +5,7 @@ Usa datos "doble" y muestra los resultados con 5 cifras decimales.*/
 using System;
 public class Ejercicio3_2_5_4
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		double radio, super, vol, pi;
 		pi = 3.14159;

@@ -4,7 +4,7 @@ Lo mismo ocurrirá si el año de nacimiento no es un número valido.
 using System;
 public class Ejercicio2_7_1
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int añonac, edad;
  		try
@@ -29,7 +29,7 @@ preguntando hasta el final del programa por el resto de datos.*/
 using System;
 public class Ejercicio2_7_2
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int añonac, edad;
  		try

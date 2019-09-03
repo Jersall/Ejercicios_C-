@@ -3,7 +3,7 @@ excepto los que sean multiples de 10 usando continue.*/
 using System;
 public class Ejercicio2_2_11_2
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int i;
 		for (i = 1; i <= 106; i++)

@@ -5,7 +5,7 @@ x = -b +-(Raiz b^2 - 4·a·c)/(2·a)*/
 using System;
 public class Ejercicio3_2_3_3
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		Double a, b, c, ecuacionp, ecuacionn, raiz, raizp;
 		Console.Write("¿x^2(a)?: ");

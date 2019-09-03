@@ -4,7 +4,7 @@ Muestra el resultado en pantalla.*/
 using System;
 public class Ejercicio3_1_2_2
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		byte n1, n2;
 		Console.Write("¿Numero 1?(max 2 cifras): ");

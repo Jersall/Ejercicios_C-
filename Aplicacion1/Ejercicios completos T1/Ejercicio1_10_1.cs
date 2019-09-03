@@ -4,7 +4,7 @@ El programa debera incluir un comentario al principio que recuerde su cometido(C
 using System;
 public class Ejercicio1_10_1
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int n1, n2, producto;
 		Console.WriteLine("Introduce el primer digito");

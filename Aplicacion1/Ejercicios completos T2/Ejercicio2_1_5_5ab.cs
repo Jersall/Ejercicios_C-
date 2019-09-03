@@ -5,7 +5,7 @@ en caso de haber solo 1 par, diga cual lo es y cual no*/
 using System;
 public class Ejercicio2_1_5_5ab
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int n1, n2;
 		Console.Write("Introduce un número entero: ");

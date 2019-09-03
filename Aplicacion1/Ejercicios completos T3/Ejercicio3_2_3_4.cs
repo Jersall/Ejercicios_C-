@@ -5,7 +5,7 @@ Aplicarlo en cuanto se convierten 1000 euros al cabo de 10 años al 3% del inter
 using System;
 public class Ejercicio3_2_3_4
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		decimal euros = 1000, interes = 3, aos = 10, resultado, elev;
 		interes++;

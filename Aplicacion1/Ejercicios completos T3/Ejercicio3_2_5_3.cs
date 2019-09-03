@@ -6,7 +6,7 @@ Muestra todos ellos con una sola cifra decimal.*/
 using System;
 public class Ejercicio3_2_5_3
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		float dancho, dalto, perimetro, area, diagonal;
 		Console.Write("¿Ancho?(cm): ");

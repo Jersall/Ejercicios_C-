@@ -3,7 +3,7 @@ rojo, azul y verde que tiene un color y que muestre ese color RGB en notacion he
 using System;
 public class Ejercicio3_2_6_2
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int rojo, verde, azul;
 		Console.Write("¿Rojo?(hasta 255): ");

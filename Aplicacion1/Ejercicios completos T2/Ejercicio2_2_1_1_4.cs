@@ -3,7 +3,7 @@ Tras introducir los números el programa dirá si el primero es múltiplo del se
 /*using System;
 public class Ejercicio2_2_1_1_3
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int n1, n2;
 		Console.Write("Introduce un número entero: ");
@@ -28,7 +28,7 @@ o ninguno de ellos lo es.*/
 using System;
 public class Ejercicio2_2_1_1_4
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int n1 = 1, n2 = 0;		
 		while(n1 != 0)

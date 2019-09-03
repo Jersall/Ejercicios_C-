@@ -3,7 +3,7 @@ A continuación, le deberás decir que miente, que no tiene esa edad.*/
 using System;
 public class Ejercicio3_1_2_1
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		byte edad;
 		Console.Write("¿Edad?: ");

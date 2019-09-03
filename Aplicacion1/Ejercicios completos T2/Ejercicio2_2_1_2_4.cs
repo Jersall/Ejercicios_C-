@@ -2,7 +2,7 @@
 using System;
 public class Ejercicio2_2_1_2_4
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int res = 7, vidas = 2, tecla;
 		Console.Write("Número del 1 al 10, a ver si lo adivinas: ");

@@ -3,7 +3,7 @@ numeros enteros positivos a partir del 1*/
 using System;
 public class Ejercicio2_2_4_2
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int positivo;
 		for (positivo = 1; positivo != 0; positivo++)

@@ -4,7 +4,7 @@ primer numero entre el segundo, utilizando 3 cifras decimales*/
 using System;
 public class Ejercicio3_2_5_1
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		double n1 = 1, n2 = 1, division = 0;
 		while ((n1 > 0) && (n2 > 0))

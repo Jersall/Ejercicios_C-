@@ -4,7 +4,7 @@ la palabra "fin"*/
 using System;
 public class Ejercicio3_2_6_4
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		string binario;
 		Console.WriteLine("¿Binario?: ");

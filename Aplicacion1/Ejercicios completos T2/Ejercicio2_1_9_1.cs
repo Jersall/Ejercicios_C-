@@ -3,7 +3,7 @@ El programa escribirá en letra el nombre de ese número (1 // "uno")*/
 using System;
 public class Ejercicio2_1_9_1
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		char n1_5;
 		Console.Write("Introduce un número del 1 al 5, los traduciré para los de letras: ");

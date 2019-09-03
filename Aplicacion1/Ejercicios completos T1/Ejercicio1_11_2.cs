@@ -3,7 +3,7 @@ usando {0},{1} y {2}.*/
 using System;
 public class Ejercicio1_11_2
 {
-	public static void Main()
+	public static void Ejecutar()
 		{
 			int cador, tiplo, res;
 			Console.Write("Introduce un número: ");

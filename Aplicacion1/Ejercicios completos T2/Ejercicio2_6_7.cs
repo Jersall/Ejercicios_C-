@@ -3,7 +3,7 @@ Con la altura que indique el usuario.*/
 using System;
 public class Ejercicio2_6_7
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int datoalto, alto, ancho;
 		Console.Write("Introduce un número entero(Alto)");

@@ -2,7 +2,7 @@
 using System;
 public class Ejercicio2_2_3_2
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int cont;
 		for (cont = 3; cont <= 50; cont = cont + 3)

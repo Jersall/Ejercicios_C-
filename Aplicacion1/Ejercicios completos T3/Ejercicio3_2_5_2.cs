@@ -6,7 +6,7 @@ con exactamente dos cifras decimales.*/
 using System;
 public class Ejercicio3_2_5_2
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		float n1, n2, n3, operasao;
 		Console.WriteLine("Con dos decimales minimo. Usa ','");

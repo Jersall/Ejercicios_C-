@@ -4,7 +4,7 @@ Con los tres valores, se realizará la suma en pantalla  de los importes con un 
 using System;
 public class Ejercisu_Caamañisu_Temisu_1
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int n1, n2, resul;
 		char moneda;

@@ -19,7 +19,7 @@ Aplicación para corregir solución:*/
 using System;
 public class Ejercicio3_2_1_2
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		float a = 5;
 		Console.WriteLine("a = {0}", a);

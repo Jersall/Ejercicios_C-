@@ -4,7 +4,7 @@ de tipo "long". Prueba a calcularlo con un int.*/
 using System;
 public class Ejercicio3_1_1_1
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		long producto = 1000000;
 		Console.WriteLine("{0} · {0} = {1}", producto, producto * producto);
@@ -14,7 +14,7 @@ public class Ejercicio3_1_1_1
 using System;
 public class Ejercicio3_1_1_1
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int producto = 1000000;
 		Console.WriteLine("{0} · {0} = {1}", producto, producto * producto);

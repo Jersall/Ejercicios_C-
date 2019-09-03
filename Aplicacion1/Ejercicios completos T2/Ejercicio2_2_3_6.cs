@@ -3,7 +3,7 @@
 using System;
 public class Ejercicio2_2_3_6
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int descendiente;
 		for (descendiente = 15; descendiente >= 5; descendiente--)

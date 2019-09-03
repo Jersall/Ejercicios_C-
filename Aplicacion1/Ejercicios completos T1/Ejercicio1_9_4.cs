@@ -1,7 +1,7 @@
 /*Ejercicio 1.9.4: Pide al usuario una cantidad de millas náuticas y muestra la equivalencia en metros(1=1852)*/
 public class Ejercicio1_9_4
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int naut, metros, conver;
 		System.Console.WriteLine("Introduce el número de millas náuticas");

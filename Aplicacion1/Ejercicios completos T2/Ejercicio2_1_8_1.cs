@@ -5,7 +5,7 @@
 using System;
 public class Ejercicio2_1_8_1
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int n1, cambio;
 		Console.Write("Introduce un número: ");

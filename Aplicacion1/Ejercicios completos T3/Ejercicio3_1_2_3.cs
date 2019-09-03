@@ -3,7 +3,7 @@ resta y producto.*/
 using System;
 public class Ejercicio3_1_2_3
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		long n1, n2;
 		Console.Write("¿Numero 1?: ");

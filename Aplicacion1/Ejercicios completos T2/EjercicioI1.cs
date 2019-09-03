@@ -4,7 +4,7 @@
 using System;
 /*public class EjercicioI1
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int n1, n2, resultado;
 		char operador;
@@ -47,7 +47,7 @@ using System;
 }*/
 public class EjercicioI1
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		double n1, n2 = 1.00, resultado = 0.00;
 		char operador;

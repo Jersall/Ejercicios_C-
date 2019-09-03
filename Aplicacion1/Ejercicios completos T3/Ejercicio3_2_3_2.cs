@@ -4,7 +4,7 @@ la velocidad en m/s, km/h y millas/h(1milla = 1609m) v = s/t*/
 using System;
 public class Ejercicio3_2_3_2
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		float metros, metroseg, km, kmh, millas, millash;
 		int hors, mins, segs;

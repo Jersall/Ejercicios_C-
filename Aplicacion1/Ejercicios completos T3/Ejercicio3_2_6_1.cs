@@ -4,7 +4,7 @@ usuario y muestre su equivalente en el sistema binario y en hexadecimal
 using System;
 public class Ejercicio3_2_6_1
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int n;
 		Console.Write("Introduce un numero entero: ");

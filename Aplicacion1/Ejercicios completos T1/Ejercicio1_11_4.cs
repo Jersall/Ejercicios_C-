@@ -6,7 +6,7 @@ Usa "Write" en lugar de "{n}"*/
 using System;
 public class Ejercicio1_11_4
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int oc;
 		Console.Write("Introduce ºC. Se convertirá la cantidad a ºK y ºF, respectivamente: ");

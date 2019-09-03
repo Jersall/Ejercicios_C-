@@ -1,10 +1,10 @@
 ﻿using System;
 
-public class Holajoiomundo
+public class Program
 {
-    public static void Main()
+    public static void Main(String[] args)
     {
-        Console.WriteLine("Hola joío");
-        Console.ReadLine();       
+        Ejercicio3_2_6_4.Ejecutar();
+        Console.ReadLine();
     }
 }

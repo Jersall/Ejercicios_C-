@@ -2,7 +2,7 @@
 
 public class Ejercicio1_6_3_1
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int n1 = 121;
 		int n2 = 231;

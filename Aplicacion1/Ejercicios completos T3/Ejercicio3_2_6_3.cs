@@ -3,7 +3,7 @@ en 16 filas de 16 columnas cada una.*/
 using System;
 public class Ejercicio3_2_6_3
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int n = 0;
 		while (n <= 255)

@@ -2,7 +2,7 @@
 using System;
 public class Ejercicio2_1_9_2
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		char tecla;
 		Console.Write("Escribe un solo caracter: ");

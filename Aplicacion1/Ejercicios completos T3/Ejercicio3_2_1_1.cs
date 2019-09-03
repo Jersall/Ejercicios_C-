@@ -3,7 +3,7 @@ usando números enteros y luego usando números de coma flotante*/
 using System;
 public class Ejercicio3_2_1_1
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int n1 = 3, n2 = 4, d1 = n1 / n2;
 		float n3 = 3, n4 = 4, d2 = n3 / n4;

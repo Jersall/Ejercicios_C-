@@ -1,7 +1,7 @@
 /*Ejercicio 1.9.1: Crea un programa que calcule el producto de dos numeros introducidos por el usuario.*/
 public class Ejercicio1_9_1
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int n1, n2, prod;
 		System.Console.WriteLine("Introduce un dígito");

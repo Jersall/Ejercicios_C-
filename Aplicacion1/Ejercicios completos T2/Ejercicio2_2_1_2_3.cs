@@ -3,7 +3,7 @@ un número entero positivo(Pista: Se puede hacer dividiendo varias veces entre 1
 using System;
 public class Ejercicio2_2_1_2_3
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int ntecla, ncuenta, nmuestra;
 		Console.Write("Introduce un número entero: ");

@@ -3,7 +3,7 @@
 using System;
 public class Ejercicio1_11_3
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int n1, n2, multi;
 		Console.Write("Introduce un dígito: ");

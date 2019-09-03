@@ -4,7 +4,7 @@ si este número también es multiplo de 10.*/
 using System;
 public class Ejercicio2_1_2_1
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int n1, n2;
 		Console.Write("Introduce un número: ");

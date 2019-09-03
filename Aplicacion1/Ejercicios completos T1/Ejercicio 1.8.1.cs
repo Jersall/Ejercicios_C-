@@ -3,7 +3,7 @@ La equivalencia es de 1 milla = 1609 metros. Usa comentarios donde te parezca ad
 
 public class Ejercicio1_8_1
 {
-	public static void Main()/*Aqui tenemos la base "de fe" de siempre, antes de empezar con el problema directo*/
+	public static void Ejecutar()/*Aqui tenemos la base "de fe" de siempre, antes de empezar con el problema directo*/
 	{
 /*Primero deberíamos introducir nuestra constante Millas, y por otro lado la cantidad de metros.*/
 		int metromillas = 1609, metros = 5000, producto = metros / metromillas, res = metros % metromillas;

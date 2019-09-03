@@ -2,7 +2,7 @@
 using System;
 public class Ejercicio2_2_3_1_3
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int conteo;
 		for (conteo = 100; conteo <= 200; conteo++)

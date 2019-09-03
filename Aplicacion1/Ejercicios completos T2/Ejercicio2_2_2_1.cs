@@ -3,7 +3,7 @@ y mostrando la suma de todos ellos. Terminará cuando se teclee un número negat
 /*using System;
 public class Ejercicio2_2_2_1
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int n1, n2, n3, suma;
 		Console.Write("Introduce un número entero: ");
@@ -31,7 +31,7 @@ public class Ejercicio2_2_2_1
 using System;
 public class Ejercicio2_2_2_1
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int n1, n2, suma;
 		Console.Write("Introduce un número entero: ");

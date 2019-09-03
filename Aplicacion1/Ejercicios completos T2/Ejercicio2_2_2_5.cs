@@ -3,7 +3,7 @@ y que no le permita seguir hasta que introduzca como nombre "Pedro" y como contr
 using System;
 public class Ejercicio2_2_2_5
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		string iden, pass;
 		do

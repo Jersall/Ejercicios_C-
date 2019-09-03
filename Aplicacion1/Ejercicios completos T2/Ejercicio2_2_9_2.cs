@@ -3,7 +3,7 @@ Usa llaves en todas las frases aunque incluyan solo 1 sentencia.*/
 using System;
 public class Ejercicio2_2_9_2
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		Console.WriteLine("Introduce el primer número: ");
 		int n1 = Convert.ToInt32(Console.ReadLine());

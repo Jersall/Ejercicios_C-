@@ -4,7 +4,7 @@ vuelve a escribirlos usando while.*/
 using System;
 public class Ejercicio2_2_12_1
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int i;
 		for (i = 100; i <= 200; i++)

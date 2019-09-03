@@ -2,7 +2,7 @@
 using System;
 public class Ejercicio2_2_3_4
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int nueve, multiplicador = -1;
 		for (nueve = 0; nueve <= 90; nueve++)

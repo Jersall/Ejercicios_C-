@@ -3,7 +3,7 @@ monedas o billetes del mayor valor posible(500, 200, 100, 50, 20, 10, 5, 2, 1)*/
 using System;
 public class Ejercicio2_6_8
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int precio, pagado, cambio, billete = 500;
 		Console.Write("¿Precio?: ");

@@ -4,7 +4,7 @@
 using System;
 public class Ejercicio2_2_2_2
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int conteo = 1;
 		do

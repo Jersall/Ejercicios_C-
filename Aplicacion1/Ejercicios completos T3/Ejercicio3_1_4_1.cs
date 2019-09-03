@@ -6,7 +6,7 @@ abreviado. ¿Que valores esperas obtener? Contrástalo con el resultado obtenido
 using System;
 public class Ejercicio3_1_4_1
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int n1 = 15, n2 = -10, n3 = 214;
 		Console.WriteLine("X = {0}, Y = {1}, Z = {2}", n1, n2, n3);

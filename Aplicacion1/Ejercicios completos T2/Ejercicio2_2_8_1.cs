@@ -4,7 +4,7 @@ y deben estar declaradas dentro del "for"*/
 using System;
 public class Ejercicio2_2_8_1
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		for (int linea = 1; linea <= 6; linea++)
 			for (int numero = 1; numero <= 7; numero++)

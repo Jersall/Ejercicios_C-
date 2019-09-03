@@ -3,7 +3,7 @@ como producto de sus factores primos. Por ejemplo: 60 = 2·2·3·5*/
 /*using System;
 public class Ejercicio2_6_2
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int entero, primo = 2;
 		Console.Write("Introduce un número entero. Lo descompondré en factores primos: ");
@@ -30,7 +30,7 @@ public class Ejercicio2_6_2
 using System;
 public class Ejercicio2_6_2
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int entero, primo = 2;
 		Console.Write("Introduce un número entero. Lo descompondré en factores primos: ");

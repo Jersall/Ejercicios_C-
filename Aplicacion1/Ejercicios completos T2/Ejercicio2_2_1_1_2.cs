@@ -3,7 +3,7 @@ y mostrará su cuadrado. Usa While para que siga pidiendo números.*/
 using System;
 public class Ejercicio2_2_1_1_2
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int n, cuadrado;
 		Console.WriteLine("Introduce un número entero.(0 para salir)");

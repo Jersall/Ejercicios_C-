@@ -4,7 +4,7 @@ Usa solo if y goto.*/
 using System;
 public class Ejercicio2_3_1
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int i = 1;
 		if (i == 1)

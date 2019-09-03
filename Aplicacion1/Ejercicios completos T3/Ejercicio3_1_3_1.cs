@@ -6,7 +6,7 @@ por el programa*/
 using System;
 public class Ejercicio3_1_3_1
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		byte quince = 15;
 		sbyte mdiez = -10;

@@ -7,7 +7,7 @@ de hombres que pueden estar a la vez meando cumpliendo esa norma.*/
 using System;
 public class EjercicioI2
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int urinarios, hombres;
 		Console.Write("Introduce el número de urinarios.");

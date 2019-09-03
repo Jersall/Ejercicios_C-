@@ -2,7 +2,7 @@
 using System;
 public class Ejercicio2_2_6_1
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int numero, veces;
 		for (veces = 1; veces <=4; veces++)

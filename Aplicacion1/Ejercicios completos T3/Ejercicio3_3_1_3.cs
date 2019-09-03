@@ -4,7 +4,7 @@ esa cantidad de letras*/
 using System;
 public class Ejercicio3_3_1_3
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		char letra;
 		int dalto, dancho;

@@ -11,7 +11,7 @@ correctamente a mano.*/
 using System;
 public class Ejercicio3_1_3_2
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int a, b, c;
 		a = 5;

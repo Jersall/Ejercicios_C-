@@ -3,7 +3,7 @@ el número 1111. El programa pedirá la contraseña tantas veces como sea necesa
 using System;
 public class Ejercicio2_2_1_1_1
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int contra;
 		Console.Write("Introduce la contraseña: ");

@@ -3,7 +3,7 @@ de la operación "(a+b)*(a-b)" y el resultado de "a^2-b^2" en la misma línea.*/
 using System;
 public class Ejercicio1_11_1
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int nA, nB, rA, rB; 
 		Console.Write("Introduce el digito 1: ");

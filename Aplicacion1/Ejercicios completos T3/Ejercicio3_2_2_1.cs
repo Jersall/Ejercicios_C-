@@ -3,7 +3,7 @@
 using System;
 public class Ejercicio3_2_2_1
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int n1 = 13, n2 = 6, d1 = n1 / n2;
 		float n3 = 13, n4 = 6, d2 = n3 / n4;

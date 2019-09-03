@@ -4,7 +4,7 @@ descendiente usando do while*/
 using System;
 public class Ejercicio2_2_2_3
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int cuenta = 27;
 		cuenta = cuenta - 1;

@@ -3,7 +3,7 @@ escriba un rectángulo(O cuadrado) formado por asteriscos.*/
 using System;
 public class Ejercicio2_2_6_2
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int ancho, alto, dancho, dalto;
 		Console.WriteLine("Introduce un número entero(Ancho): " );

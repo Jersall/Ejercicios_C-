@@ -3,7 +3,7 @@ con la altura que indique el usuario.*/
 using System;
 public class Ejercicio2_6_5
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int dalto, alto = 0;
 		Console.Write("Introduce un numero(Alto): ");

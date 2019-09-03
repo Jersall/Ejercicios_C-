@@ -6,7 +6,7 @@ declaradas en el for para el bloque repetitivo.*/
 using System;
 public class Ejercicio2_2_8_2
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		Console.Write("Introduce un número entero(alto): ");
 		int dalto = Convert.ToInt32(Console.ReadLine());

@@ -3,7 +3,7 @@ usando multiplicaciones sucesivas.*/
 using System;
 public class Ejercicio2_6_3
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		double n1, ele, pot;
 		Console.Write("Introduce un número entero: ");

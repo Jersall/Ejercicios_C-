@@ -2,7 +2,7 @@
 using System;
 public class Ejercicio2_2_3_5
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int par;
 		for(par = 1; par <= 8; par++)

@@ -7,7 +7,7 @@ dos anteriores: 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, etc.*/
 using System;
 public class EjercicioI3
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int n1 = 1, n2 = 1, iguala, sucesion;
 		Console.Write("¿Cuántos numeros alargamos la fibonacci?(Sin contar los primeros 1): ");

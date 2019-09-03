@@ -4,7 +4,7 @@ que teclee el usuario y la "z". Por ejemplo, si el usuario introduce una "a", se
 using System;
 public class Ejercicio3_3_1_2
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		char letra;
 		Console.Write("¿Letra?: ");

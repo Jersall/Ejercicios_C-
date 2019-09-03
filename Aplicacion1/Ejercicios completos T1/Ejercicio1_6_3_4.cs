@@ -2,7 +2,7 @@
 //Ejercicio 1.6.3.4: Ampliar el ejercicio 1.6.2.1(mod 1.5.2.1) para que muestre la operación n1+n2*n3
 public class Ejercicio1_6_2_1
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int N1 = -2, N2 = 3, N3 = -5;
 		int ope = N1 + N2 * N3;

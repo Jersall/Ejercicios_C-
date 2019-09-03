@@ -3,7 +3,7 @@ en la misma línea*/
 using System;
 public class Ejercicio2_2_7_2
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int contador;
 		char mayuscula;

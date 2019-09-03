@@ -4,7 +4,7 @@ using System;
 
 public class Ejercicio2_1_9_3
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		char alfanum;
 		Console.Write("Introduce una letra, o numero(Solo 1): ");

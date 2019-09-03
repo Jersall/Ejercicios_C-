@@ -3,7 +3,7 @@ y diga si el primero es multiple del segundo. Pista: "a % b == 0"*/
 using System;
 public class Ejercicio2_1_1_3
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int n1, n2;
 		Console.Write("Introduce el primer numero, que dividiremos: ");

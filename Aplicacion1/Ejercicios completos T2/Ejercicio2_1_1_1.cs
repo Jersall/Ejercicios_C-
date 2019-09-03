@@ -2,7 +2,7 @@
 using System;
 public class Ejercicio2_1_1_1
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int nume;
 		Console.Write("Introduce un dígito ");

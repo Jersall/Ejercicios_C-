@@ -3,7 +3,7 @@ linea usando for: "12345123451234512345"*/
 using System;
 public class Ejercicio2_2_5_1
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int veces, numero;
 		for (veces = 1; veces <= 4; veces++)

@@ -4,7 +4,7 @@ resultado se mostrará como float*/
 using System;
 public class Ejercicio3_2_4_1
 {
-	public static void Main()
+	public static void Ejecutar()
 	{
 		int n1;
 		double raiz;
