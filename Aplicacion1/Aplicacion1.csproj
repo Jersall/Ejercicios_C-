@@ -179,6 +179,7 @@
     <Compile Include="Ejercicios completos T3\Ejercicio3_5_1.cs" />
     <Compile Include="Ejercicios completos T3\EjercicioI3.cs" />
     <Compile Include="Ejercicios completos T4\4_1_1_1.cs" />
+    <Compile Include="Ejercicios completos T4\4_1_1_2.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
