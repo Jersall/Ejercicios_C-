@@ -53,7 +53,6 @@ public class E4_1_2_1
                 Console.Write("No hay tantos meses.");
                 break;
         }
-        Console.Write(meses[nmes]);
-        Console.WriteLine(" días en total.");
+        Console.WriteLine(Convert.ToString(meses[nmes]) + " días en total.");
     }
 }
