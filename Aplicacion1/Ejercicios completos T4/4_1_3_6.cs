@@ -10,7 +10,7 @@ public class E4_1_3_6
     {
         string[] nombres = new string[10];
         string nombreprueba;
-        bool enlalista, noenlalista;
+        bool enlalista;
         for (int i = 0; i <= 9; i++)
         {
             Console.Write("¿Nombre nº{0}?: ", i + 1);
