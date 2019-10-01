@@ -10,7 +10,6 @@ public class E4_1_4_1
         int cap = 5;
         int cant = 4;
         int busqueda, veces = 0;
-
         Console.Write("¿Que numero buscas?: ");
         busqueda = Convert.ToInt32(Console.ReadLine());
         for(int i = 0; i < cant; i++)
