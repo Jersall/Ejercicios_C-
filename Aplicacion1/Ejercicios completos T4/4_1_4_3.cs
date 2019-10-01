@@ -7,11 +7,18 @@ public class E4_1_4_3
     public static void Ejecutar()
     {
         int[] numeros = { 10, 15, 12, 0, 0 };
-        int cap = 5, cant = 3, posicion, nuevodato;
+        int cap = 5, cant = 3, posicion = 6, nuevodato;
         Console.Write("Introduce el nuevo número que quieras añadir: ");
         nuevodato = Convert.ToInt32(Console.ReadLine());
-        Console.Write("¿En que posición irá?(max 5): ");
-        posicion = Convert.ToInt32(Console.ReadLine());
+        while (posicion > 5)
+        {
+            Console.Write("¿En que posición irá?(max 5): ");
+            posicion = Convert.ToInt32(Console.ReadLine());
+            if (posicion > 5)
+            {
+                Console.WriteLine("No existen posiciones superiores a 5.");
+            }
+        }
         if (cant < cap)
         for (int i = cant; i > posicion; i--)
             numeros[i] = numeros[i - 1];
