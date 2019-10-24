@@ -100,6 +100,7 @@ public class E4_1_4_5
                 default:
                     break;
             }
+            Console.WriteLine("Finalizando programa...");
         }
     }
 }

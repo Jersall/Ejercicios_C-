@@ -9,6 +9,5 @@ C:\Users\jrafe\Desktop\Proyecto1\Proyectos\Aplicacion1\Aplicacion1\bin\Debug\Apl
 C:\Users\jrafe\Desktop\Proyecto1\Proyectos\Aplicacion1\Aplicacion1\bin\Debug\Aplicacion1.exe
 C:\Users\jrafe\Desktop\Proyecto1\Proyectos\Aplicacion1\Aplicacion1\bin\Debug\Aplicacion1.pdb
 C:\Users\jrafe\Desktop\Proyecto1\Proyectos\Aplicacion1\Aplicacion1\obj\Debug\Aplicacion1.csprojAssemblyReference.cache
-C:\Users\jrafe\Desktop\Proyecto1\Proyectos\Aplicacion1\Aplicacion1\obj\Debug\Aplicacion1.csproj.CoreCompileInputs.cache
 C:\Users\jrafe\Desktop\Proyecto1\Proyectos\Aplicacion1\Aplicacion1\obj\Debug\Aplicacion1.exe
 C:\Users\jrafe\Desktop\Proyecto1\Proyectos\Aplicacion1\Aplicacion1\obj\Debug\Aplicacion1.pdb

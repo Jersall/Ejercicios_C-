@@ -197,14 +197,22 @@
     <Compile Include="Ejercicios completos T4\4_1_4_3.cs" />
     <Compile Include="Ejercicios completos T4\4_1_4_4.cs" />
     <Compile Include="Ejercicios completos T4\4_1_4_5.cs" />
+    <Compile Include="Ejercicios completos T4\4_1_5_1.cs" />
+    <Compile Include="Ejercicios completos T4\4_2_1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="bin\Debug\Aplicacion1.exe.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="bin\Debug\Aplicacion1.exe" />
+    <Content Include="bin\Debug\Aplicacion1.pdb" />
     <Content Include="Ejercicios completos T1\Ejercicio_tema_1.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Release\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
