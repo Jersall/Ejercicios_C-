@@ -1,4 +1,4 @@
-﻿/*Ejercicio 4.3.2.1: Crea un "struct" que almacene datos de una canción en formato MP3:
+﻿/*Ejercicio 4.3.1.1: Crea un "struct" que almacene datos de una canción en formato MP3:
 Artista, Título, Duración (en segundos), Tamaño del fichero (en KB). Un programa
 debe pedir los datos de una canción al usuario, almacenarlos en dicho "struct" y
 después mostrarlos en pantalla.*/
