@@ -66,7 +66,7 @@ public class E4_3_2_1
                     
                     for(int j = 0; j < cantidad; j++)
                     {
-                        if((buscar == temastr[j].artista) || (buscar == temastr[j].titulo))
+                        if((buscar.ToLower() == temastr[j].artista.ToLower()) || (buscar.ToLower() == temastr[j].titulo.ToLower()))
                         {
                             Console.WriteLine("Resultado encontrado: {0} - {1}({2} KB)", temastr[j].artista, temastr[j].titulo, temastr[j].pesoKB);
                         }
@@ -77,6 +77,7 @@ public class E4_3_2_1
             }
         }
         while ((opcionmenu < 4) && (opcionmenu > 0));
-
+        Console.WriteLine("¡Hasta otra!");
+        Console.ReadLine();
     }
 }
