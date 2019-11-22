@@ -46,7 +46,7 @@ public class E4_3_3_1
                             tiempo[cantidad].segundos = Convert.ToInt32(Console.ReadLine());
                             for(int k = 0; tiempo[cantidad].segundos > 60; k++)
                             {
-                                if (segundos > 60)
+                                if (tiempo[cantidad].segundos >= 60)
                                 {
                                     tiempo[cantidad].segundos = tiempo[cantidad].segundos - 60;
                                 }
