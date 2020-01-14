@@ -1,15 +1,8 @@
-﻿/*
- * Ejercicio 4.4.5.1: Un programa que pida al usuario 10 frases, las guarde en un array, y
- * luego le pregunte textos de forma repetitiva, e indique si cada uno de esos textos
- * aparece como parte de alguno de los elementos del array. Terminará cuando el
- * texto introducido sea "fin"
- * 
- * Ejercicio 4.4.5.2: Crea una versión del ejercicio 4.4.5.1 en la que, 
- * en caso de que alguno de los textos aparezca como subcadena, se avise además si se 
- * encuentra exactamente al principio.
- */
+﻿/*Ejercicio 4.4.6.1:  Una variante del ejercicio 4.4.5.2, que no distinga entre mayúsculas y
+minúsculas a la hora de buscar.*/
+
 using System;
-public class E4_4_5_2
+public class E4_4_6_1
 {
     public static void Ejecutar()
     {
@@ -19,6 +12,7 @@ public class E4_4_5_2
         {
             Console.WriteLine("¿Frase {0}?: ", contador + 1);
             diezfrases[contador] = Convert.ToString(Console.ReadLine());
+            diezfrases[contador] = diezfrases[contador].ToLower();
             contador++;
         }
         while (contador < 10);
@@ -29,6 +23,7 @@ public class E4_4_5_2
         {
             Console.Write("¿Fragmento a buscar?: ");
             busqueda = Convert.ToString(Console.ReadLine());
+            busqueda = busqueda.ToLower();
             for (int j = 0; j < 10; j++)
             {
                 if (diezfrases[j].Contains(busqueda))
