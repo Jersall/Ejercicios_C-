@@ -4,7 +4,7 @@ public class Program
 {
     public static void Main(String[] args)
     {
-        E4_4_6_2.Ejecutar();
+        E4_4_7_2.Ejecutar();
         Console.ReadLine();
     }
 }
